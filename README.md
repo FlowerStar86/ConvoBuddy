@@ -39,3 +39,10 @@ Test Questions:
 8.What should we talk about?
 9.Can you help me speak better?
 10.Okay
+
+# Day 5
+Connected the AI model to the app interface in Lovable AI.
+Designed user flow: AI starts the conversation, user responds by voice then AI replies.
+Added basic UX: microphone indicator, reset conversation option, and safe logging of inputs/outputs.
+Known issues: AI sometimes mishears words; mic timing can be slightly off.
+Demo link: https://convobuddyaiapp.lovable.app
