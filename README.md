@@ -23,12 +23,12 @@ Current Status (Day 3)
 •	Basic speech-to-text and text-to-speech workflow working
 
 # Day 4
-Tested voice-first interaction with short spoken inputs
-Identified latency caused by long AI responses
-Noted robotic tone in voice output
-Planned prompt iteration to improve naturalnes
-Test Questions:
+•	Tested voice-first interaction with short spoken inputs
+•	Identified latency caused by long AI responses
+•	Noted robotic tone in voice output
+•	Planned prompt iteration to improve naturalnes
 
+Test Questions:
 1.Hi
 2.How are you?
 3.I’m feeling bored
