@@ -55,3 +55,11 @@ Demo link: https://convobuddyaiapp.lovable.app
 - Added AI personality for more engaging conversations.
 - Enabled user selection between male and female AI voices.
 - Continued development using Thunkable AI due to limitations in the initial tool, while maintaining core functionality and security practices.
+
+# Day 7
+- Deployment target: Thunkable AI Live Preview
+- Smoke tests: AI starts conversation, captures user speech, responds with voice; no crashes
+- Performance: acceptable latency for demo
+- Fallback: revert to last stable version if issues
+- Decisions: focused on voice-only interaction; planned feature to have AI prompt users to use learned words in sentences (implementation limited by token availability)
+- Blockers: app store publishing requires additional setup; further real-device testing needed
