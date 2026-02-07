@@ -46,3 +46,12 @@ Designed user flow: AI starts the conversation, user responds by voice then AI r
 Added basic UX: microphone indicator, reset conversation option, and safe logging of inputs/outputs.
 Known issues: AI sometimes mishears words; mic timing can be slightly off.
 Demo link: https://convobuddyaiapp.lovable.app
+
+# Day 6
+- Reviewed input handling and ensured safe processing of user speech and responses.
+- Verified no API keys or secrets are exposed in the repository.
+- Fixed key bugs, including microphone timing after AI speech.
+- Identified known limitations with speech recognition in noisy environments.
+- Added AI personality for more engaging conversations.
+- Enabled user selection between male and female AI voices.
+- Continued development using Thunkable AI due to limitations in the initial tool, while maintaining core functionality and security practices.
