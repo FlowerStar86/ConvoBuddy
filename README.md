@@ -79,5 +79,5 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
   - Grammar improvements
   - Encouragement and tips
 - The AI allowed the user to (start a new lesson)or (go back to the previous lesson) for extra practice.
-- Screenshots and/or video of this evaluation are included in the project folder.
-- Made the GitHub repository public and included all files, README, evaluation data, and media for submission.
+
+  Note: Stopped using Thunkable AI and went back to Lovable AI to test and finalize the lessons
