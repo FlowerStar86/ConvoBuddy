@@ -81,3 +81,8 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
 - The AI allowed the user to (start a new lesson)or (go back to the previous lesson) for extra practice.
 
   Note: Stopped using Thunkable AI and went back to Lovable AI to test and finalize the lessons
+  
+# ConvoBuddy 2.0
+# day 2 
+rework the layout
+and po
