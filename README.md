@@ -83,6 +83,21 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
   Note: Stopped using Thunkable AI and went back to Lovable AI to test and finalize the lessons
   
 # ConvoBuddy 2.0
-# day 2 
-rework the layout
-and po
+# Day 2 
+- Changed color scheme
+- Added progress tracking page
+- Improved navigation
+
+#Day 3
+-Set up AI responses to interact with users  
+- Tested the app with sample questions and conversations  
+- Evaluated response quality and basic performance  
+- Introduced a level-based progression system (e.g., Level 1, Level 2, Level 3)  
+- Planned how users can progress through levels based on activity and performance
+
+#Day 4:
+- Added multi-language support to improve accessibility  
+- Tested the app using different inputs and languages  
+- Identified issues with language consistency and response quality  
+- Improved prompts to make responses clearer and more accurate  
+- Enhanced overall user experience through testing and iteration  
