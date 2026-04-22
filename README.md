@@ -100,4 +100,15 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
 - Tested the app using different inputs and languages  
 - Identified issues with language consistency and response quality  
 - Improved prompts to make responses clearer and more accurate  
-- Enhanced overall user experience through testing and iteration  
+- Enhanced overall user experience through testing and iteration
+
+# Day 5:
+- Fixed issues from Day 3 and Day 4 (levels and speech recognition)  
+- Improved level system and made it more balanced for beginners  
+- Upgraded levels to CEFR structure (A1–C2) across all languages  
+- Added short tests (5–10 questions) when users move to a new level  
+- Added user personalization (name, interests, avatars)  
+- Added AI personality modes (friendly mode and teacher mode)  
+- Improved language system (choose app language + learning language)  
+- Added voice recorder before sending messages  
+- Improved overall user experience and app flow  
