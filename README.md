@@ -111,4 +111,13 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
 - Added AI personality modes (friendly mode and teacher mode)  
 - Improved language system (choose app language + learning language)  
 - Added voice recorder before sending messages  
-- Improved overall user experience and app flow  
+- Improved overall user experience and app flow
+  
+  # Day 6:
+- Added input validation to handle incorrect or empty user input  
+- Reviewed security (no API keys or sensitive data exposed)  
+- Considered basic rate limits to prevent excessive requests  
+- Fixed major bugs from previous days (levels and speech recognition)  
+- Improved AI response accuracy and language consistency  
+- Updated README and project documentation  
+- Improved overall stability and user experience  
