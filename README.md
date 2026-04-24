@@ -123,7 +123,7 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
 - Improved overall stability and user experience  
 
 # Day 7:
-- Fixed broken pages and restored placement/level test page (resolved 404 error)  
+- fixed day 6 bugs : Fixed broken pages and restored placement/level test page (resolved 404 error)  
 - Added placement system with “Test yourself” option to assign accurate level  
 - Locked level system (users can no longer change level manually)  
 - Improved level progression through lessons and speaking tests only  
