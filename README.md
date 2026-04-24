@@ -121,3 +121,19 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
 - Improved AI response accuracy and language consistency  
 - Updated README and project documentation  
 - Improved overall stability and user experience  
+
+# Day 7:
+- Fixed broken pages and restored placement/level test page (resolved 404 error)  
+- Added placement system with “Test yourself” option to assign accurate level  
+- Locked level system (users can no longer change level manually)  
+- Improved level progression through lessons and speaking tests only  
+- Added speaking tests after every 5 lessons (speaking only, no reading/writing)  
+- Added “I am new to this language” option for beginners  
+- Enabled dual-language explanations (native language + learning language)  
+- Implemented vocabulary tracking system:
+  - Saves learned words automatically  
+  - Displays word, meaning, and example sentence  
+  - Added to Progress/Vocabulary section  
+- Added lesson duration options (5, 10, 15, 20 minutes)  
+- AI adapts lesson length and difficulty based on selected time  
+- Improved overall personalization, structure, and user experience  
