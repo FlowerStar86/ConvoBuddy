@@ -137,3 +137,11 @@ Planned feature: After teaching new words, the AI will prompt users to use them 
 - Added lesson duration options (5, 10, 15, 20 minutes)  
 - AI adapts lesson length and difficulty based on selected time  
 - Improved overall personalization, structure, and user experience  
+
+# Day 8:
+- Added onboarding tutorial for first-time users  
+- Implemented step-by-step guided app walkthrough  
+- Added interactive tutorial (chat + voice practice)  
+- Added skip and replay tutorial options  
+- Improved beginner experience with extra guidance  
+- Added smart tips during app usage  
